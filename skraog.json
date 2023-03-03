@@ -1,8 +1,8 @@
 {
 	"name": "Mocha",
-	"version": "1.5.1",
+	"version": "1.5.2",
 	"description": "☕️ Mocha Edited.",
-	"color": "#cba6f7",
+	"color": "#cfa1a1",
 	"authors": [
 		{
 			"name": "Skraog",
@@ -85,15 +85,15 @@
 		"TEXT_LINK": ["#b4befe", "#b4befe"],
 		"TEXT_LINK_LOW_SATURATION": ["#cfa1a1", "#cfa1a1"],
 		"TEXT_MUTED": ["#6c7086", "#6c7086"],
-		"TEXT_NORMAL": ["#cdd6f4", "#cdd6f4"],
+		"TEXT_NORMAL": ["#cfa1a1", "#cfa1a1"],
 		"TEXT_POSITIVE": ["#a6e3a1", "#a6e3a1"],
 		"TEXT_WARNING": ["#f38ba8", "#f38ba8"]
 		},
 		"colours": {
 			"BRAND_NEW": "#8839ef",
 			"PRIMARY_DARK": "#45475a",
-			"PRIMARY_DARK_100": "#cdd6f4",
-			"PRIMARY_DARK_300": "#cdd6f4",
+			"PRIMARY_DARK_100": "#cfa1a1",
+			"PRIMARY_DARK_300": "#cfa1a1",
 			"PRIMARY_DARK_360": "#cba6f7",
 			"PRIMARY_DARK_400": "#7f849c",
 			"PRIMARY_DARK_500": "#313244",
